@@ -1,0 +1,27 @@
+(Exercício 01) 
+
+Criar uma conta no github
+
+- Tutorial de uso do git: http://rogerdudler.github.io/git-guide/index.pt_BR.html
+- Curso em vídeo: http://dev.rbtech.info/curso-controle-versao-git-aula-1/
+
+(Exercício 02) 
+
+Criar uma página HTML com CSS, que possua:
+
+01) Um cabeçalho com o nome da loja: "Livraria do 'aluno'"
+
+02) Um corpo, com 10 livros, contendo:
+   - Capa do livro
+   - Título do livro
+   - Autor do livro
+   - Preço
+
+03) Um rodapé com o texto: "Desenvolvido por 'aluno'"
+
+04) Uma função Javascript que deixe o título do livro em vermelho quando o usuário passar o mouse sobre o título
+
+05) Armazenar o código fonte em um repositório no Github de vocês.
+
+Obs: obtenham os dados dos livros na Internet, ao seu critério.
+
